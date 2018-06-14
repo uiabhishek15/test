@@ -1,1 +1,1 @@
-web: --port $PORT ./target/*.war
+web: sh target/bin/webapp
